@@ -1,0 +1,12 @@
+//https://economia.awesomeapi.com.br/xml/available/uniq
+
+async function conectaAPI() {
+    const conecta = await fetch('https://economia.awesomeapi.com.br/last/BTC-BRL')
+    const conectaTraduzido = await conecta.json();
+    postMessage(conectaTraduzido.BTCBRL);
+}
+
+addEventListener("message", () => {
+    conectaAPI();
+    setInterval(() => conectaAPI(), 1000)
+})
