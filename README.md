@@ -1,4 +1,4 @@
-<h1 align="center">Site de Atualização de Cotação de Moedas</h1>
+<h1 align="center">Site de Cotação de Moedas</h1>
 
 ## API das Moedas
 * USD
