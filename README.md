@@ -1,6 +1,6 @@
 <h1 align="center">Site de Atualização de Cotação de Moedas</h1>
 
-## Moedas Ativas
+## API das Moedas
 * USD
 * BTC
 
