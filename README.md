@@ -1,11 +1,10 @@
-<p align="center"> <img src="https://imgur.com/1mc1qX7.png" alt="JavaScript: trabalhando com threads para requisições simultâneas"> </p>
+<h1 align="center">Site de Atualização de Cotação de Moedas</h1>
 
-<hr>
+## Moedas Ativas
+* USD
+* BTC
 
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Bytebank: o seu banco digital!</p>
-
-## Assuntos abordados durante o curso
+## Assuntos abordados no projeto
 * Fetch API
 * Threads
 * Concorrência
@@ -20,3 +19,5 @@
 * HTML
 * CSS
 * JavaScript
+
+## Dev. Caio Bello 
